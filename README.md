@@ -24,7 +24,7 @@ I am a passionate developer currently studying at SUT. I enjoy automating tasks 
 ## 🛠 Skills
 
 - **Languages:** Python, HTML, CSS
-- **Frameworks & Libraries:** PyAutoGUI, Requests, Bootstrap
+- **Frameworks & Libraries:** PyAutoGUI, Requests, selenium, Bootstrap
 - **APIs:** Telegram Bot API
 - **Tools:** Git & GitHub
 
