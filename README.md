@@ -40,7 +40,8 @@ IRAN • University Student (SUT) • HE/HIM
 <!-- - 🔭 I’m currently working on: CURRENT_PROJECT — SHORT_DESCRIPTION -->
 - 🌱 I’m learning: C++, JS, PHP, Qt5/Qt6
 <!-- - 💬 Ask me about: TOPIC_1, TOPIC_2 -->
-- 📫 How to reach me: erfanfarizad@gmail.com
+
+- 📫 How to reach me: erfanfarizad@gmail.com, [X](https://x.com/ErfanFa23) , [Telegram](https://t.me/erfan_farizad_contact_bot)
 <!-- - ⚡ Fun fact: FUN_FACT -->
 
 ---
