@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hi there 👋
 
 <!--
 **erFa23/erFa23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,8 +20,6 @@ Here are some ideas to get you started:
   Replace ALL_CAPS placeholders with your information.
   Save this file as `README.md` in your repo or your profile repo (named after your GitHub username) to display on GitHub.
 -->
-
-# Erfan Farizad 👋
 
 <!-- [![Website](https://img.shields.io/website?url=YOUR_WEBSITE)](YOUR_WEBSITE)  -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](LINKEDIN_URL) 
