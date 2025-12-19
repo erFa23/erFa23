@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 <!-- [![Website](https://img.shields.io/website?url=YOUR_WEBSITE)](YOUR_WEBSITE)  -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](LINKEDIN_URL) 
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white)]([TWITTER_URL](https://x.com/ErfanFa23))
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white)](https://x.com/ErfanFa23)
 
 SHORT_TAGLINE_OR_ONE_LINE_BIO
 
