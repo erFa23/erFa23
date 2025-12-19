@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Erfan Farizad
+# Hi there 👋 I'm Erfan Farizad  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 <!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin_link) -->
 [![Twitter](https://img.shields.io/badge/Twitter-%23000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/ErfanFa23)
