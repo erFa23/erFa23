@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 <!-- [![Website](https://img.shields.io/website?url=YOUR_WEBSITE)](YOUR_WEBSITE)  -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](LINKEDIN_URL) 
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white)](TWITTER_URL)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white)]([TWITTER_URL](https://x.com/ErfanFa23))
 
 SHORT_TAGLINE_OR_ONE_LINE_BIO
 
@@ -68,7 +68,7 @@ Tip: Add a screenshot or GIF for each project under the project bullet if desire
 ## Experience & Education
 
 <!-- - **COMPANY_NAME** — ROLE (YEAR–YEAR) — KEY_ACHIEVEMENT -->
-- **Sharif Univercity of Technology (SUT)** — DEGREE, MAJOR (YEAR)
+- **Sharif Univercity of Technology (SUT)**, 2025
 
 ---
 
