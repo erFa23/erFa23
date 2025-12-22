@@ -1,7 +1,7 @@
 # Hi there 👋 I'm Erfan Farizad  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 <!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin_link) -->
-[![Twitter](https://img.shields.io/badge/Twitter-%23000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/ErfanFa23)
+[![Twitter](https://img.shields.io/badge/follow-%23000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/ErfanFa23)
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/erfan_farizad_contact_bot)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:erfanfarizad@gmail.com)
 
