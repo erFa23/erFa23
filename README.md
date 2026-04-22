@@ -2,7 +2,7 @@
 
 <!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin_link) -->
 [![Twitter](https://img.shields.io/badge/follow-%23000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/ErfanFa23)
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/erfan_farizad_contact_bot)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Arta_Asha)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:erfanfarizad@gmail.com)
 
 **Python Developer | University Student @ SUT**
@@ -15,18 +15,18 @@
 
 I am a passionate developer currently studying at SUT. I enjoy automating tasks with Python and I'm deeply interested in GUI development and bot APIs.
 
-- 🌱 **Currently learning:** C++, JavaScript, PHP, and Qt5/Qt6.
-- 💬 **Ask me about:** Python automation, Web scraping, and Telegram Bots.
+- 🌱 **Currently learning:** C++, JavaScript, and PHP.
+- 💬 **Ask me about:** Python automation and Telegram Bots.
 - 📫 **Reach me at:** [erfanfarizad@gmail.com](mailto:erfanfarizad@gmail.com)
 
 ---
 
 ## 🛠 Skills
 
-- **Languages:** Python, HTML, CSS
-- **Frameworks & Libraries:** PyAutoGUI, Requests, Selenium, Bootstrap
+- **Languages:** Python, Bash, simple C++
+- **Frameworks & Libraries:** PyAutoGUI, Requests, Selenium, Bootstrap, Qt5/Qt6, HTML5, CSS3
 - **APIs:** Telegram Bot API
-- **Tools:** Git & GitHub
+- **Tools:** Git & GitHub, Docker
 
 ---
 
