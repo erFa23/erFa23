@@ -40,3 +40,6 @@ I am a passionate developer currently studying at SUT. I enjoy automating tasks 
 
 ## 📊 GitHub Stats
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=erFa23&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=erFa23&show_icons=true&theme=nord)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=erFa23&theme=nord)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=erFa23&layout=compact&theme=nord)
