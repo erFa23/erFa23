@@ -1,5 +1,4 @@
-# Hi there 👋 I'm Erfan Farizad  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-
+# Hi there 👋 I'm Erfan Farizad
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erfan-farizad-823092442)
 [![Twitter](https://img.shields.io/badge/follow-%23000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/ErfanFa23)
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Arta_Asha)
