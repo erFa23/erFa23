@@ -15,8 +15,8 @@
 
 I am a passionate developer currently studying at SUT. I enjoy automating tasks with Python and I'm deeply interested in GUI development and bot APIs.
 
-- 🌱 **Learning / Exploring:** C++, NodeJS, Go, Django, OpenAI API, CUDA
-- 💬 **Ask me about:** Python automation and Telegram Bots.
+- 🌱 **Learning / Exploring:** C++, NodeJS, Go, Django, OpenAI API, CUDA, TypeScript, NextJS, React.
+- 💬 **Ask me about:** Python automation, Telegram Bots and web development.
 - 📫 **Reach me at:** [erfanfarizad@gmail.com](mailto:erfanfarizad@gmail.com)
 
 ---
@@ -24,10 +24,10 @@ I am a passionate developer currently studying at SUT. I enjoy automating tasks 
 ## 🛠 Skills
 
 - **Languages:** Python, Bash, JS, PHP, simple Go and simple C++
-- **Linux & Systems:** Debian, Ubuntu, Arch Linux, Kernel Driver Management, X11 Forwarding & Remote Display Protocols, Bash Scripting, PipeWire / Audio Routing
-- **Frameworks & Libraries:** PyAutoGUI, Requests, Selenium, Bootstrap, PySide6 / Qt6 / QML, HTML5, CSS3
-- **APIs:** Telegram Bot API
-- **Tools:** Git & GitHub, Docker
+- **Linux & Systems:** Debian, Ubuntu, Arch Linux, Driver Management, X11 Forwarding & Remote Display Protocols, Network Management and routing, Bash Scripting and Server Setup.
+- **Frameworks & Libraries:** PyAutoGUI, Requests, Selenium, Bootstrap, PySide6 / Qt6 / QML. 
+- **APIs:** Telegram Bot API.
+- **Tools:** Git & GitHub, Docker.
 
 ---
 
